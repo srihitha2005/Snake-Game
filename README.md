@@ -3,7 +3,7 @@ Snake Game in C++
 
 A simple snake game written in C++ using Data structures and OOPS concepts.
 
-** Idea Behind The Code **
+***Idea Behind The Code***
 
 **Components**
 
