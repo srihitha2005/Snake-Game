@@ -45,6 +45,3 @@ A simple snake game written in C++ using Data structures and OOPS concepts.
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-**License**
-
-This project is licensed under the MIT License.
